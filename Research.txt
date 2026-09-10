@@ -1,0 +1,7 @@
+1.
+https://youtu.be/PCL1GxmA8pM?si=ICKJMhmkI11lFnG0
+https://milanjovanovic.tech/blog/working-with-llms-in-dotnet-using-microsoft-extensions-ai
+2.
+https://youtu.be/y_8doNRKqRA?si=5lqAJGVxVzyaG1jJ
+https://learn.microsoft.com/en-us/dotnet/ai/ichatclient
+https://github.com/ollama/ollama/issues/16576
