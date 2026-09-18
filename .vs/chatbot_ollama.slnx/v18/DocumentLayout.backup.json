@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\bugra\\source\\repos\\chatbot_ollama\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{01461F85-A52F-765C-6AEB-5CD3112FF9FA}|chatbot_ollama.csproj|c:\\users\\bugra\\source\\repos\\chatbot_ollama\\models\\messagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01461F85-A52F-765C-6AEB-5CD3112FF9FA}|chatbot_ollama.csproj|solutionrelative:models\\messagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01461F85-A52F-765C-6AEB-5CD3112FF9FA}|chatbot_ollama.csproj|c:\\users\\bugra\\source\\repos\\chatbot_ollama\\research.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{01461F85-A52F-765C-6AEB-5CD3112FF9FA}|chatbot_ollama.csproj|solutionrelative:research.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{01461F85-A52F-765C-6AEB-5CD3112FF9FA}|chatbot_ollama.csproj|c:\\users\\bugra\\source\\repos\\chatbot_ollama\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01461F85-A52F-765C-6AEB-5CD3112FF9FA}|chatbot_ollama.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01461F85-A52F-765C-6AEB-5CD3112FF9FA}|chatbot_ollama.csproj|c:\\users\\bugra\\source\\repos\\chatbot_ollama\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{01461F85-A52F-765C-6AEB-5CD3112FF9FA}|chatbot_ollama.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{01461F85-A52F-765C-6AEB-5CD3112FF9FA}|chatbot_ollama.csproj|c:\\users\\bugra\\source\\repos\\chatbot_ollama\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01461F85-A52F-765C-6AEB-5CD3112FF9FA}|chatbot_ollama.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01461F85-A52F-765C-6AEB-5CD3112FF9FA}|chatbot_ollama.csproj|c:\\users\\bugra\\source\\repos\\chatbot_ollama\\views\\home\\main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01461F85-A52F-765C-6AEB-5CD3112FF9FA}|chatbot_ollama.csproj|solutionrelative:views\\home\\main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,47 +30,81 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\bugra\\source\\repos\\chatbot_ollama\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\bugra\\source\\repos\\chatbot_ollama\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Title": "Research.txt",
+              "DocumentMoniker": "C:\\Users\\bugra\\source\\repos\\chatbot_ollama\\Research.txt",
+              "RelativeDocumentMoniker": "Research.txt",
+              "ToolTip": "C:\\Users\\bugra\\source\\repos\\chatbot_ollama\\Research.txt",
+              "RelativeToolTip": "Research.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-09-17T11:34:33.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MessageModel.cs",
+              "DocumentMoniker": "C:\\Users\\bugra\\source\\repos\\chatbot_ollama\\Models\\MessageModel.cs",
+              "RelativeDocumentMoniker": "Models\\MessageModel.cs",
+              "ToolTip": "C:\\Users\\bugra\\source\\repos\\chatbot_ollama\\Models\\MessageModel.cs",
+              "RelativeToolTip": "Models\\MessageModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T00:05:11.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Main.cshtml",
+              "DocumentMoniker": "C:\\Users\\bugra\\source\\repos\\chatbot_ollama\\Views\\Home\\Main.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Main.cshtml",
+              "ToolTip": "C:\\Users\\bugra\\source\\repos\\chatbot_ollama\\Views\\Home\\Main.cshtml",
+              "RelativeToolTip": "Views\\Home\\Main.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-09-09T08:41:39.401Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\bugra\\source\\repos\\chatbot_ollama\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\bugra\\source\\repos\\chatbot_ollama\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-05T09:55:31.787Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\bugra\\source\\repos\\chatbot_ollama\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\bugra\\source\\repos\\chatbot_ollama\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-05T08:33:04.735Z",
               "EditorCaption": ""

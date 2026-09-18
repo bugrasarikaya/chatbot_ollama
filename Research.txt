@@ -5,3 +5,8 @@ https://milanjovanovic.tech/blog/working-with-llms-in-dotnet-using-microsoft-ext
 https://youtu.be/y_8doNRKqRA?si=5lqAJGVxVzyaG1jJ
 https://learn.microsoft.com/en-us/dotnet/ai/ichatclient
 https://github.com/ollama/ollama/issues/16576
+3.
+https://www.c-sharpcorner.com/blogs/session-management-in-asp-net-core-mvc
+https://learn.microsoft.com/en-us/dotnet/api/system.net.http.httpclient.timeout?view=net-10.0
+https://stackoverflow.com/questions/30327999/timeout-infinitetimespan-in-net-4-0
+https://github.com/dotnet/runtime/issues/37777

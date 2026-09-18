@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Main Page";
+}
+<div class="text-center">
+    <h1 class="display-4">ChatBot Ollama</h1>
+    @if (Model != null) {
+        <p>@Model</p>
+    }
+    <form action="@Url.Action("Main", "Home")" method="post">
+        <input type="text" id="input_1" name="Text" />
+        <input type="submit" value="Submit" />
+    </form>
+</div>
